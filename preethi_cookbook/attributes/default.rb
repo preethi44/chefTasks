@@ -1,0 +1,1 @@
+default["flag_files"]["files"] = ["c:/first.txt","c:/second.txt"]
